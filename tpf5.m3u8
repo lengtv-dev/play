@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,AVERAGE-BANDWIDTH=2710000,BANDWIDTH=3380000,CODECS="avc1.64001f,mp4a.40.2",AUDIO="audio"
+https://m3u8proxy.playidlive.workers.dev/?url=https://cdn1.googlecdnforstreaming.live/live/tsp5/chunks.m3u8

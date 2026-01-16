@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3100000
+https://slave03.appball.vip/hls/GfMgpCG0GoEGf_fo1pgDNg/1761955653/ch11.m3u8
+
+#http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130721.m3u8
