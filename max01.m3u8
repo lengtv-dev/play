@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000
-http://119.59.118.159/live/ch2/Mariogogo007/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10100000,FRAME-RATE=50
+https://love.1yoeo8rt7b.workers.dev/lx-origin/th-monomax01_720/playlist.m3u8
